@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CompoundInterstApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7255",
+      "launchBrowser": false
+    }
+  }
+}
